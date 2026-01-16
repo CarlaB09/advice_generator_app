@@ -1,0 +1,32 @@
+@media(max-width:426px){
+    
+    .container{
+        width: 310px;
+        height: 300px;
+        text-align: center;
+    }
+
+    p{
+        width: fit-content;
+        font-size: 22px;
+        margin-top: 40px;
+        margin-left: 12px;
+    }
+    
+    
+.pattern{
+   display: flex;
+   position: relative;
+   justify-content: center;
+   margin-top:105px;
+}
+
+.pattern img{
+    width: 290px;
+}
+
+header{
+    font-size: 10px;
+}
+
+}
