@@ -8,6 +8,7 @@ The purpose of this project is to test our knowledge and skills acquired in adva
 * CSS
 
 <br>
+
 [Frontend Mentor link](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
 
 #### Conclusion
